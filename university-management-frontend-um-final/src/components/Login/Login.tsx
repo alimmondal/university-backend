@@ -49,6 +49,14 @@ const LoginPage = () => {
         <Image src={loginImage} width={500} alt="login image" />
       </Col>
       <Col sm={12} md={8} lg={8}>
+        <p>super-admin-id: 00001 </p>
+        <p>admin-id: A-00008 </p>
+        <p>admin-id: A-00007 </p>
+        <p>student-id: 250300002 </p>
+        <p>student-id: 250300003 </p>
+        <p>student-id: 250300004 </p>
+
+        <p>password: 123456 </p>
         <h1
           style={{
             margin: "15px 0px",
