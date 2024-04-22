@@ -53,8 +53,8 @@ const LoginPage = () => {
         <p>admin-id: A-00008 </p>
         <p>admin-id: A-00007 </p>
         <p>student-id: 250300002 </p>
-        <p>student-id: 250300003 </p>
-        <p>student-id: 250300004 </p>
+        <p>student-id: 490200003 </p>
+        <p>student-id: 490200004 </p>
 
         <p>password: 123456 </p>
         <h1
